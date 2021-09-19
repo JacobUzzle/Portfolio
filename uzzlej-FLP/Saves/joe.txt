@@ -1,0 +1,2319 @@
+Position:
+01
+Dungeon:
+Room:
+A purple crowded room decorated with party streamers.
+Door 1:
+A beautiful door with a picture of a sad face.
+Door 2:
+A purple door.
+Room:
+A slanted large room.
+Door 1:
+A bamboo door.
+Door 2:
+A purple door with a picture of a happy face.
+Room:
+A  cold room decorated with party streamers.
+Door 1:
+A purple door with a picture of a sad face.
+Door 2:
+A purple door marked with an A.
+Room:
+A circular normal room covered with mildew.
+Door 1:
+A decrepit door.
+Door 2:
+A purple door with a picture of a happy face.
+Room:
+A  tiny room filled with rabbits.
+Door 1:
+A decrepit door with a picture of a happy face.
+Door 2:
+A decrepit door marked with a B.
+Room:
+A circular crowded room with a grass floor.
+Door 1:
+A bamboo door marked with an A.
+Door 2:
+A bamboo door marked with an A.
+Room:
+A purple large room.
+Door 1:
+A normal door.
+Door 2:
+A bamboo door marked with a B.
+Room:
+A yellow tiny room filled with rabbits.
+Door 1:
+A brown door with a picture of a sad face.
+Door 2:
+A purple door.
+Room:
+A red crowded room.
+Door 1:
+A purple door marked with a B.
+Door 2:
+A brown door.
+Room:
+A purple normal room with a grass floor.
+Dead End
+Room:
+A blue smelly room with a swimming pool.
+Door 1:
+A brown door marked with an A.
+Door 2:
+A purple door with a picture of a happy face.
+Room:
+A yellow hot room covered with mildew.
+Dead End
+Room:
+A yellow dark room.
+Dead End
+Room:
+A bright normal room covered with mildew.
+Dead End
+Room:
+A  normal room.
+Door 1:
+A brown door marked with an A.
+Door 2:
+A normal door marked with a B.
+Room:
+A bright dark room decorated with party streamers.
+Dead End
+Room:
+A  dark room with a grass floor.
+Dead End
+Room:
+A slanted cold room decorated with party streamers.
+Dead End
+Room:
+A yellow tiny room with a grass floor.
+Door 1:
+A beautiful door with a picture of a sad face.
+Door 2:
+A bamboo door.
+Room:
+A blue hot room with a swimming pool.
+Door 1:
+A massive door with a picture of a sad face.
+Door 2:
+A bamboo door with a picture of a sad face.
+Room:
+A yellow large room covered with mildew.
+Door 1:
+A brown door with a picture of a happy face.
+Door 2:
+A bamboo door with a picture of a sad face.
+Room:
+A red crowded room filled with rabbits.
+Door 1:
+A decrepit door marked with an A.
+Door 2:
+A brown door marked with a B.
+Room:
+A bright dark room.
+Door 1:
+A bamboo door marked with an A.
+Door 2:
+A bamboo door marked with a B.
+Room:
+A  tiny room.
+Dead End
+Room:
+A green cold room with a swimming pool.
+Dead End
+Room:
+A  smelly room covered with mildew.
+Door 1:
+A bamboo door with a picture of a sad face.
+Door 2:
+A massive door with a picture of a happy face.
+Room:
+A bright smelly room covered with mildew.
+Dead End
+Room:
+A slanted hot room with a grass floor.
+Dead End
+Room:
+A purple dark room filled with rabbits.
+Door 1:
+A massive door with a picture of a sad face.
+Door 2:
+A decrepit door with a picture of a happy face.
+Room:
+A purple cold room covered with mildew.
+Door 1:
+A brown door.
+Door 2:
+A normal door.
+Room:
+A green dark room filled with rabbits.
+Dead End
+Room:
+A purple crowded room.
+Dead End
+Room:
+A blue dark room decorated with party streamers.
+Door 1:
+A massive door marked with an A.
+Door 2:
+A beautiful door with a picture of a sad face.
+Room:
+A red hot room covered with mildew.
+Dead End
+Room:
+A  normal room decorated with party streamers.
+Dead End
+Room:
+A  smelly room.
+Door 1:
+A normal door with a picture of a sad face.
+Door 2:
+A beautiful door.
+Room:
+A  crowded room.
+Door 1:
+A beautiful door marked with a B.
+Door 2:
+A massive door.
+Room:
+A green large room with a grass floor.
+Dead End
+Room:
+A circular dark room with a swimming pool.
+Door 1:
+A purple door.
+Door 2:
+A purple door.
+Room:
+A green large room decorated with party streamers.
+Dead End
+Room:
+A red crowded room covered with mildew.
+Dead End
+Room:
+A  crowded room with a swimming pool.
+Door 1:
+A brown door marked with an A.
+Door 2:
+A decrepit door marked with a B.
+Room:
+A red normal room covered with mildew.
+Door 1:
+A decrepit door marked with a B.
+Door 2:
+A beautiful door marked with a B.
+Room:
+A  tiny room covered with mildew.
+Dead End
+Room:
+A circular cold room decorated with party streamers.
+Dead End
+Room:
+A  crowded room.
+Door 1:
+A massive door.
+Door 2:
+A purple door marked with a B.
+Room:
+A  dark room with a grass floor.
+Dead End
+Room:
+A  crowded room decorated with party streamers.
+Dead End
+Room:
+A green large room.
+Dead End
+Room:
+A purple crowded room.
+Door 1:
+A decrepit door with a picture of a happy face.
+Door 2:
+A normal door with a picture of a happy face.
+Room:
+A green hot room decorated with party streamers.
+Door 1:
+A normal door with a picture of a happy face.
+Door 2:
+A decrepit door marked with an A.
+Room:
+A green smelly room.
+Door 1:
+A bamboo door with a picture of a happy face.
+Door 2:
+A brown door.
+Room:
+A blue large room with a grass floor.
+Door 1:
+A normal door marked with an A.
+Door 2:
+A normal door marked with a B.
+Room:
+A yellow hot room.
+Dead End
+Room:
+A slanted hot room covered with mildew.
+Door 1:
+A massive door marked with a B.
+Door 2:
+A brown door.
+Room:
+A circular smelly room with a swimming pool.
+Dead End
+Room:
+A yellow hot room decorated with party streamers.
+Door 1:
+A brown door with a picture of a sad face.
+Door 2:
+A decrepit door with a picture of a happy face.
+Room:
+A slanted crowded room filled with rabbits.
+Dead End
+Room:
+A  cold room filled with rabbits.
+Dead End
+Room:
+A green hot room filled with rabbits.
+Door 1:
+A decrepit door.
+Door 2:
+A normal door.
+Room:
+A purple crowded room decorated with party streamers.
+Door 1:
+A bamboo door marked with an A.
+Door 2:
+A bamboo door.
+Room:
+A  hot room.
+Dead End
+Room:
+A  hot room.
+Door 1:
+A decrepit door marked with an A.
+Door 2:
+A brown door marked with an A.
+Room:
+A circular cold room with a swimming pool.
+Dead End
+Room:
+A green cold room decorated with party streamers.
+Dead End
+Room:
+A blue hot room with a grass floor.
+Door 1:
+A purple door.
+Door 2:
+A massive door marked with a B.
+Room:
+A blue normal room.
+Door 1:
+A decrepit door marked with a B.
+Door 2:
+A decrepit door with a picture of a sad face.
+Room:
+A green cold room with a grass floor.
+Dead End
+Room:
+A  cold room.
+Dead End
+Room:
+A purple hot room.
+Door 1:
+A purple door with a picture of a happy face.
+Door 2:
+A purple door.
+Room:
+A purple smelly room covered with mildew.
+Dead End
+Room:
+A slanted hot room.
+Dead End
+Room:
+A  normal room.
+Dead End
+Room:
+A  tiny room filled with rabbits.
+Dead End
+Room:
+A bright dark room.
+Door 1:
+A brown door marked with an A.
+Door 2:
+A purple door.
+Room:
+A circular crowded room filled with rabbits.
+Dead End
+Room:
+A bright large room.
+Dead End
+Room:
+A bright dark room.
+Door 1:
+A decrepit door with a picture of a happy face.
+Door 2:
+A decrepit door with a picture of a happy face.
+Room:
+A circular large room with a swimming pool.
+Door 1:
+A purple door with a picture of a sad face.
+Door 2:
+A decrepit door.
+Room:
+A green normal room decorated with party streamers.
+Door 1:
+A brown door.
+Door 2:
+A beautiful door with a picture of a happy face.
+Room:
+A slanted smelly room covered with mildew.
+Door 1:
+A purple door with a picture of a sad face.
+Door 2:
+A decrepit door with a picture of a sad face.
+Room:
+A purple hot room with a swimming pool.
+Door 1:
+A beautiful door with a picture of a sad face.
+Door 2:
+A decrepit door.
+Room:
+A slanted hot room.
+Dead End
+Room:
+A  large room.
+Dead End
+Room:
+A green smelly room.
+Door 1:
+A purple door marked with an A.
+Door 2:
+A massive door marked with a B.
+Room:
+A  cold room.
+Door 1:
+A normal door.
+Door 2:
+A bamboo door marked with an A.
+Room:
+A  tiny room decorated with party streamers.
+Door 1:
+A purple door marked with a B.
+Door 2:
+A decrepit door marked with an A.
+Room:
+A green normal room with a grass floor.
+Dead End
+Room:
+A  large room.
+Door 1:
+A beautiful door marked with a B.
+Door 2:
+A purple door marked with an A.
+Room:
+A slanted hot room with a swimming pool.
+Dead End
+Room:
+A  smelly room covered with mildew.
+Dead End
+Room:
+A purple hot room.
+Door 1:
+A brown door with a picture of a sad face.
+Door 2:
+A decrepit door with a picture of a sad face.
+Room:
+A purple large room.
+Dead End
+Room:
+A circular tiny room.
+Door 1:
+A purple door.
+Door 2:
+A decrepit door.
+Room:
+A slanted dark room filled with rabbits.
+Dead End
+Room:
+A purple cold room with a grass floor.
+Dead End
+Room:
+A purple cold room.
+Dead End
+Room:
+A  crowded room.
+Dead End
+Room:
+A slanted normal room with a swimming pool.
+Door 1:
+A decrepit door marked with a B.
+Door 2:
+A beautiful door marked with a B.
+Room:
+A bright smelly room decorated with party streamers.
+Door 1:
+A normal door.
+Door 2:
+A beautiful door.
+Room:
+A  tiny room decorated with party streamers.
+Door 1:
+A beautiful door with a picture of a happy face.
+Door 2:
+A brown door with a picture of a happy face.
+Room:
+A slanted crowded room decorated with party streamers.
+Door 1:
+A brown door.
+Door 2:
+A bamboo door.
+Room:
+A green large room covered with mildew.
+Door 1:
+A decrepit door marked with a B.
+Door 2:
+A beautiful door.
+Room:
+A bright tiny room filled with rabbits.
+Door 1:
+A purple door.
+Door 2:
+A normal door.
+Room:
+A red dark room covered with mildew.
+Dead End
+Room:
+A bright large room with a swimming pool.
+Dead End
+Room:
+A blue crowded room covered with mildew.
+Door 1:
+A bamboo door with a picture of a sad face.
+Door 2:
+A decrepit door with a picture of a sad face.
+Room:
+A purple normal room with a swimming pool.
+Dead End
+Room:
+A bright cold room decorated with party streamers.
+Dead End
+Room:
+A  hot room.
+Dead End
+Room:
+A  tiny room filled with rabbits.
+Door 1:
+A bamboo door marked with an A.
+Door 2:
+A massive door marked with a B.
+Room:
+A  dark room.
+Door 1:
+A decrepit door marked with an A.
+Door 2:
+A decrepit door with a picture of a sad face.
+Room:
+A slanted dark room.
+Door 1:
+A normal door.
+Door 2:
+A normal door.
+Room:
+A  dark room with a grass floor.
+Dead End
+Room:
+A slanted dark room.
+Dead End
+Room:
+A green hot room filled with rabbits.
+Door 1:
+A beautiful door with a picture of a happy face.
+Door 2:
+A normal door with a picture of a happy face.
+Room:
+A  hot room covered with mildew.
+Dead End
+Room:
+A bright normal room with a grass floor.
+Dead End
+Room:
+A purple normal room filled with rabbits.
+Door 1:
+A brown door.
+Door 2:
+A bamboo door with a picture of a happy face.
+Room:
+A circular normal room.
+Door 1:
+A normal door.
+Door 2:
+A decrepit door with a picture of a happy face.
+Room:
+A  crowded room covered with mildew.
+Dead End
+Room:
+A  tiny room decorated with party streamers.
+Dead End
+Room:
+A purple tiny room.
+Door 1:
+A purple door.
+Door 2:
+A normal door with a picture of a sad face.
+Room:
+A red hot room.
+Dead End
+Room:
+A circular large room covered with mildew.
+Dead End
+Room:
+A blue smelly room covered with mildew.
+Dead End
+Room:
+A purple dark room filled with rabbits.
+Dead End
+Room:
+A green normal room with a swimming pool.
+Door 1:
+A brown door.
+Door 2:
+A bamboo door marked with a B.
+Room:
+A bright large room decorated with party streamers.
+Door 1:
+A brown door.
+Door 2:
+A beautiful door with a picture of a sad face.
+Room:
+A purple crowded room.
+Door 1:
+A decrepit door with a picture of a sad face.
+Door 2:
+A decrepit door.
+Room:
+A slanted smelly room with a swimming pool.
+Door 1:
+A bamboo door.
+Door 2:
+A massive door with a picture of a sad face.
+Room:
+A  dark room with a swimming pool.
+Door 1:
+A massive door marked with a B.
+Door 2:
+A brown door with a picture of a happy face.
+Room:
+A circular dark room with a grass floor.
+Door 1:
+A beautiful door with a picture of a sad face.
+Door 2:
+A bamboo door with a picture of a happy face.
+Room:
+A bright dark room.
+Door 1:
+A brown door.
+Door 2:
+A purple door.
+Room:
+A bright hot room with a grass floor.
+Dead End
+Room:
+A purple smelly room decorated with party streamers.
+Dead End
+Room:
+A blue dark room.
+Dead End
+Room:
+A bright hot room covered with mildew.
+Door 1:
+A brown door with a picture of a sad face.
+Door 2:
+A beautiful door with a picture of a sad face.
+Room:
+A circular hot room filled with rabbits.
+Door 1:
+A massive door with a picture of a sad face.
+Door 2:
+A massive door.
+Room:
+A  normal room filled with rabbits.
+Dead End
+Room:
+A slanted crowded room.
+Dead End
+Room:
+A slanted cold room.
+Door 1:
+A massive door marked with an A.
+Door 2:
+A beautiful door marked with a B.
+Room:
+A  large room covered with mildew.
+Dead End
+Room:
+A red dark room with a swimming pool.
+Dead End
+Room:
+A green dark room decorated with party streamers.
+Door 1:
+A beautiful door.
+Door 2:
+A purple door.
+Room:
+A blue normal room with a swimming pool.
+Door 1:
+A decrepit door.
+Door 2:
+A decrepit door with a picture of a sad face.
+Room:
+A  smelly room with a swimming pool.
+Door 1:
+A normal door.
+Door 2:
+A bamboo door marked with an A.
+Room:
+A red smelly room filled with rabbits.
+Dead End
+Room:
+A slanted cold room with a grass floor.
+Dead End
+Room:
+A green tiny room with a grass floor.
+Door 1:
+A massive door marked with a B.
+Door 2:
+A brown door with a picture of a sad face.
+Room:
+A  hot room.
+Dead End
+Room:
+A green large room covered with mildew.
+Dead End
+Room:
+A bright large room decorated with party streamers.
+Dead End
+Room:
+A yellow crowded room with a swimming pool.
+Door 1:
+A bamboo door with a picture of a sad face.
+Door 2:
+A bamboo door with a picture of a sad face.
+Room:
+A red cold room covered with mildew.
+Door 1:
+A brown door with a picture of a sad face.
+Door 2:
+A beautiful door.
+Room:
+A bright crowded room covered with mildew.
+Door 1:
+A purple door with a picture of a happy face.
+Door 2:
+A massive door marked with a B.
+Room:
+A purple normal room filled with rabbits.
+Dead End
+Room:
+A  crowded room.
+Door 1:
+A beautiful door with a picture of a sad face.
+Door 2:
+A brown door marked with a B.
+Room:
+A green tiny room with a grass floor.
+Dead End
+Room:
+A slanted cold room covered with mildew.
+Dead End
+Room:
+A  hot room.
+Door 1:
+A beautiful door marked with a B.
+Door 2:
+A massive door with a picture of a happy face.
+Room:
+A blue smelly room filled with rabbits.
+Door 1:
+A beautiful door.
+Door 2:
+A decrepit door marked with a B.
+Room:
+A  tiny room filled with rabbits.
+Dead End
+Room:
+A yellow normal room with a grass floor.
+Dead End
+Room:
+A blue hot room with a swimming pool.
+Door 1:
+A brown door marked with a B.
+Door 2:
+A purple door.
+Room:
+A bright tiny room.
+Dead End
+Room:
+A purple crowded room covered with mildew.
+Dead End
+Room:
+A slanted hot room covered with mildew.
+Door 1:
+A purple door marked with an A.
+Door 2:
+A bamboo door with a picture of a happy face.
+Room:
+A circular smelly room covered with mildew.
+Door 1:
+A bamboo door.
+Door 2:
+A normal door marked with an A.
+Room:
+A green tiny room covered with mildew.
+Door 1:
+A brown door.
+Door 2:
+A decrepit door.
+Room:
+A blue cold room.
+Dead End
+Room:
+A circular dark room decorated with party streamers.
+Dead End
+Room:
+A blue hot room filled with rabbits.
+Dead End
+Room:
+A yellow tiny room covered with mildew.
+Dead End
+Room:
+A purple hot room.
+Dead End
+Room:
+A  crowded room decorated with party streamers.
+Exit
+Room:
+A slanted dark room covered with mildew.
+Door 1:
+A beautiful door with a picture of a happy face.
+Door 2:
+A normal door marked with a B.
+Room:
+A slanted hot room decorated with party streamers.
+Door 1:
+A beautiful door marked with a B.
+Door 2:
+A beautiful door marked with an A.
+Room:
+A purple cold room decorated with party streamers.
+Door 1:
+A brown door.
+Door 2:
+A normal door with a picture of a happy face.
+Room:
+A blue large room decorated with party streamers.
+Door 1:
+A massive door with a picture of a happy face.
+Door 2:
+A brown door with a picture of a happy face.
+Room:
+A yellow cold room with a grass floor.
+Door 1:
+A brown door marked with a B.
+Door 2:
+A bamboo door.
+Room:
+A green dark room with a grass floor.
+Door 1:
+A bamboo door.
+Door 2:
+A decrepit door.
+Room:
+A circular large room.
+Door 1:
+A normal door marked with a B.
+Door 2:
+A massive door marked with a B.
+Room:
+A green crowded room.
+Dead End
+Room:
+A green dark room covered with mildew.
+Dead End
+Room:
+A  smelly room filled with rabbits.
+Dead End
+Room:
+A  large room.
+Door 1:
+A purple door marked with a B.
+Door 2:
+A brown door with a picture of a happy face.
+Room:
+A red dark room with a grass floor.
+Door 1:
+A bamboo door with a picture of a sad face.
+Door 2:
+A purple door with a picture of a sad face.
+Room:
+A purple cold room with a grass floor.
+Door 1:
+A bamboo door with a picture of a happy face.
+Door 2:
+A bamboo door.
+Room:
+A bright smelly room.
+Dead End
+Room:
+A bright cold room with a swimming pool.
+Door 1:
+A massive door.
+Door 2:
+A brown door.
+Room:
+A yellow normal room filled with rabbits.
+Dead End
+Room:
+A yellow tiny room with a swimming pool.
+Dead End
+Room:
+A red dark room covered with mildew.
+Door 1:
+A normal door with a picture of a happy face.
+Door 2:
+A beautiful door marked with an A.
+Room:
+A bright normal room decorated with party streamers.
+Door 1:
+A decrepit door with a picture of a sad face.
+Door 2:
+A decrepit door.
+Room:
+A  cold room.
+Dead End
+Room:
+A red large room with a swimming pool.
+Dead End
+Room:
+A blue hot room decorated with party streamers.
+Door 1:
+A massive door.
+Door 2:
+A bamboo door marked with a B.
+Room:
+A blue hot room.
+Dead End
+Room:
+A purple normal room decorated with party streamers.
+Dead End
+Room:
+A  hot room.
+Door 1:
+A decrepit door with a picture of a happy face.
+Door 2:
+A brown door marked with an A.
+Room:
+A yellow tiny room with a grass floor.
+Door 1:
+A beautiful door marked with an A.
+Door 2:
+A beautiful door.
+Room:
+A slanted cold room decorated with party streamers.
+Door 1:
+A bamboo door marked with a B.
+Door 2:
+A purple door.
+Room:
+A slanted cold room with a swimming pool.
+Dead End
+Room:
+A blue dark room.
+Dead End
+Room:
+A red tiny room filled with rabbits.
+Door 1:
+A beautiful door marked with a B.
+Door 2:
+A decrepit door with a picture of a happy face.
+Room:
+A  dark room covered with mildew.
+Dead End
+Room:
+A red large room covered with mildew.
+Dead End
+Room:
+A slanted hot room.
+Door 1:
+A brown door with a picture of a sad face.
+Door 2:
+A beautiful door with a picture of a happy face.
+Room:
+A slanted smelly room with a grass floor.
+Door 1:
+A beautiful door marked with an A.
+Door 2:
+A beautiful door marked with a B.
+Room:
+A green dark room decorated with party streamers.
+Dead End
+Room:
+A yellow large room.
+Dead End
+Room:
+A green smelly room filled with rabbits.
+Door 1:
+A decrepit door marked with an A.
+Door 2:
+A normal door marked with an A.
+Room:
+A  hot room.
+Dead End
+Room:
+A bright smelly room.
+Dead End
+Room:
+A yellow smelly room with a swimming pool.
+Dead End
+Room:
+A bright tiny room.
+Door 1:
+A bamboo door marked with an A.
+Door 2:
+A beautiful door with a picture of a sad face.
+Room:
+A yellow crowded room with a swimming pool.
+Door 1:
+A purple door marked with an A.
+Door 2:
+A bamboo door marked with a B.
+Room:
+A  tiny room filled with rabbits.
+Door 1:
+A beautiful door with a picture of a sad face.
+Door 2:
+A normal door marked with an A.
+Room:
+A slanted dark room covered with mildew.
+Door 1:
+A brown door.
+Door 2:
+A bamboo door.
+Room:
+A blue cold room.
+Door 1:
+A purple door marked with a B.
+Door 2:
+A massive door with a picture of a happy face.
+Room:
+A  large room with a grass floor.
+Door 1:
+A bamboo door.
+Door 2:
+A decrepit door with a picture of a happy face.
+Room:
+A purple large room with a grass floor.
+Dead End
+Room:
+A red dark room.
+Dead End
+Room:
+A blue normal room filled with rabbits.
+Door 1:
+A massive door with a picture of a happy face.
+Door 2:
+A beautiful door marked with an A.
+Room:
+A yellow hot room covered with mildew.
+Dead End
+Room:
+A slanted cold room.
+Dead End
+Room:
+A blue dark room.
+Door 1:
+A decrepit door.
+Door 2:
+A massive door.
+Room:
+A purple cold room.
+Dead End
+Room:
+A yellow tiny room filled with rabbits.
+Door 1:
+A beautiful door.
+Door 2:
+A bamboo door with a picture of a sad face.
+Room:
+A purple smelly room.
+Dead End
+Room:
+A yellow large room with a swimming pool.
+Dead End
+Room:
+A bright large room covered with mildew.
+Door 1:
+A massive door.
+Door 2:
+A massive door marked with an A.
+Room:
+A purple crowded room decorated with party streamers.
+Door 1:
+A decrepit door.
+Door 2:
+A bamboo door marked with an A.
+Room:
+A green normal room decorated with party streamers.
+Dead End
+Room:
+A purple hot room.
+Door 1:
+A purple door with a picture of a sad face.
+Door 2:
+A beautiful door marked with a B.
+Room:
+A bright tiny room filled with rabbits.
+Dead End
+Room:
+A  cold room decorated with party streamers.
+Dead End
+Room:
+A  crowded room with a grass floor.
+Dead End
+Room:
+A slanted hot room with a swimming pool.
+Door 1:
+A normal door.
+Door 2:
+A decrepit door with a picture of a happy face.
+Room:
+A bright large room.
+Door 1:
+A bamboo door.
+Door 2:
+A brown door.
+Room:
+A slanted crowded room.
+Door 1:
+A bamboo door marked with a B.
+Door 2:
+A normal door marked with a B.
+Room:
+A  tiny room with a swimming pool.
+Door 1:
+A purple door.
+Door 2:
+A purple door.
+Room:
+A green normal room with a swimming pool.
+Dead End
+Room:
+A purple cold room decorated with party streamers.
+Dead End
+Room:
+A  large room with a swimming pool.
+Dead End
+Room:
+A green smelly room.
+Door 1:
+A purple door with a picture of a sad face.
+Door 2:
+A decrepit door.
+Room:
+A green smelly room filled with rabbits.
+Door 1:
+A massive door marked with an A.
+Door 2:
+A decrepit door.
+Room:
+A slanted hot room with a swimming pool.
+Dead End
+Room:
+A red dark room.
+Dead End
+Room:
+A bright dark room with a swimming pool.
+Door 1:
+A massive door with a picture of a happy face.
+Door 2:
+A beautiful door with a picture of a happy face.
+Room:
+A blue dark room.
+Dead End
+Room:
+A red smelly room covered with mildew.
+Dead End
+Room:
+A blue normal room decorated with party streamers.
+Dead End
+Room:
+A bright hot room with a grass floor.
+Door 1:
+A decrepit door with a picture of a happy face.
+Door 2:
+A purple door with a picture of a sad face.
+Room:
+A green dark room with a grass floor.
+Door 1:
+A normal door marked with a B.
+Door 2:
+A brown door with a picture of a sad face.
+Room:
+A  cold room.
+Door 1:
+A purple door marked with an A.
+Door 2:
+A massive door.
+Room:
+A bright dark room.
+Dead End
+Room:
+A circular normal room decorated with party streamers.
+Door 1:
+A normal door marked with a B.
+Door 2:
+A beautiful door.
+Room:
+A slanted smelly room with a grass floor.
+Door 1:
+A beautiful door.
+Door 2:
+A beautiful door with a picture of a sad face.
+Room:
+A blue large room filled with rabbits.
+Dead End
+Room:
+A blue hot room decorated with party streamers.
+Dead End
+Room:
+A purple dark room.
+Door 1:
+A beautiful door marked with an A.
+Door 2:
+A beautiful door marked with an A.
+Room:
+A purple large room with a swimming pool.
+Dead End
+Room:
+A  tiny room with a grass floor.
+Dead End
+Room:
+A circular normal room filled with rabbits.
+Door 1:
+A brown door marked with an A.
+Door 2:
+A massive door.
+Room:
+A slanted large room covered with mildew.
+Door 1:
+A massive door marked with a B.
+Door 2:
+A normal door marked with an A.
+Room:
+A circular hot room with a grass floor.
+Door 1:
+A normal door marked with a B.
+Door 2:
+A normal door marked with a B.
+Room:
+A circular large room filled with rabbits.
+Dead End
+Room:
+A blue large room.
+Dead End
+Room:
+A green tiny room filled with rabbits.
+Door 1:
+A normal door marked with a B.
+Door 2:
+A beautiful door marked with a B.
+Room:
+A red cold room with a swimming pool.
+Dead End
+Room:
+A yellow dark room filled with rabbits.
+Dead End
+Room:
+A blue crowded room with a swimming pool.
+Door 1:
+A beautiful door marked with an A.
+Door 2:
+A massive door marked with a B.
+Room:
+A slanted hot room covered with mildew.
+Door 1:
+A decrepit door marked with an A.
+Door 2:
+A beautiful door.
+Room:
+A slanted normal room covered with mildew.
+Dead End
+Room:
+A  smelly room covered with mildew.
+Dead End
+Room:
+A purple crowded room filled with rabbits.
+Door 1:
+A massive door marked with an A.
+Door 2:
+A massive door.
+Room:
+A circular smelly room with a grass floor.
+Dead End
+Room:
+A  crowded room covered with mildew.
+Dead End
+Room:
+A purple crowded room covered with mildew.
+Door 1:
+A massive door marked with a B.
+Door 2:
+A brown door.
+Room:
+A  smelly room.
+Dead End
+Room:
+A purple smelly room with a grass floor.
+Door 1:
+A decrepit door marked with a B.
+Door 2:
+A massive door with a picture of a happy face.
+Room:
+A  large room filled with rabbits.
+Door 1:
+A bamboo door with a picture of a happy face.
+Door 2:
+A beautiful door with a picture of a sad face.
+Room:
+A yellow cold room with a grass floor.
+Door 1:
+A beautiful door with a picture of a sad face.
+Door 2:
+A brown door marked with a B.
+Room:
+A bright crowded room.
+Dead End
+Room:
+A yellow large room with a grass floor.
+Dead End
+Room:
+A red smelly room decorated with party streamers.
+Door 1:
+A beautiful door marked with a B.
+Door 2:
+A brown door with a picture of a sad face.
+Room:
+A green cold room filled with rabbits.
+Dead End
+Room:
+A circular dark room decorated with party streamers.
+Dead End
+Room:
+A purple normal room covered with mildew.
+Dead End
+Room:
+A  normal room with a grass floor.
+Door 1:
+A normal door marked with a B.
+Door 2:
+A purple door.
+Room:
+A circular crowded room with a grass floor.
+Door 1:
+A massive door with a picture of a happy face.
+Door 2:
+A brown door marked with an A.
+Room:
+A green hot room.
+Door 1:
+A bamboo door with a picture of a happy face.
+Door 2:
+A brown door marked with an A.
+Room:
+A  cold room decorated with party streamers.
+Door 1:
+A brown door.
+Door 2:
+A massive door marked with a B.
+Room:
+A  crowded room.
+Door 1:
+A massive door.
+Door 2:
+A brown door with a picture of a sad face.
+Room:
+A  hot room with a swimming pool.
+Door 1:
+A normal door.
+Door 2:
+A beautiful door with a picture of a happy face.
+Room:
+A blue dark room with a grass floor.
+Door 1:
+A decrepit door.
+Door 2:
+A brown door.
+Room:
+A blue large room filled with rabbits.
+Dead End
+Room:
+A  cold room covered with mildew.
+Dead End
+Room:
+A bright dark room decorated with party streamers.
+Door 1:
+A decrepit door.
+Door 2:
+A bamboo door with a picture of a sad face.
+Room:
+A green crowded room with a swimming pool.
+Dead End
+Room:
+A  dark room with a swimming pool.
+Dead End
+Room:
+A slanted dark room decorated with party streamers.
+Door 1:
+A purple door with a picture of a sad face.
+Door 2:
+A brown door.
+Room:
+A red large room covered with mildew.
+Dead End
+Room:
+A green tiny room with a grass floor.
+Dead End
+Room:
+A circular cold room with a grass floor.
+Dead End
+Room:
+A  large room with a swimming pool.
+Door 1:
+A massive door marked with an A.
+Door 2:
+A massive door.
+Room:
+A circular dark room with a swimming pool.
+Door 1:
+A massive door with a picture of a happy face.
+Door 2:
+A purple door marked with a B.
+Room:
+A bright dark room.
+Door 1:
+A decrepit door marked with a B.
+Door 2:
+A brown door.
+Room:
+A circular hot room decorated with party streamers.
+Dead End
+Room:
+A blue crowded room.
+Dead End
+Room:
+A bright normal room covered with mildew.
+Door 1:
+A normal door marked with an A.
+Door 2:
+A brown door with a picture of a sad face.
+Room:
+A green crowded room.
+Door 1:
+A decrepit door marked with a B.
+Door 2:
+A purple door.
+Room:
+A red cold room with a swimming pool.
+Dead End
+Room:
+A slanted normal room decorated with party streamers.
+Dead End
+Room:
+A bright smelly room.
+Door 1:
+A purple door marked with a B.
+Door 2:
+A purple door marked with an A.
+Room:
+A  smelly room with a grass floor.
+Dead End
+Room:
+A  dark room covered with mildew.
+Dead End
+Room:
+A circular cold room.
+Door 1:
+A bamboo door with a picture of a sad face.
+Door 2:
+A decrepit door marked with an A.
+Room:
+A circular cold room.
+Door 1:
+A massive door.
+Door 2:
+A purple door.
+Room:
+A circular crowded room decorated with party streamers.
+Door 1:
+A massive door marked with an A.
+Door 2:
+A bamboo door marked with a B.
+Room:
+A blue hot room with a swimming pool.
+Dead End
+Room:
+A blue large room.
+Dead End
+Room:
+A slanted crowded room.
+Dead End
+Room:
+A blue tiny room.
+Door 1:
+A bamboo door with a picture of a sad face.
+Door 2:
+A brown door marked with an A.
+Room:
+A slanted cold room decorated with party streamers.
+Dead End
+Room:
+A bright dark room covered with mildew.
+Door 1:
+A bamboo door with a picture of a sad face.
+Door 2:
+A normal door marked with a B.
+Room:
+A purple cold room.
+Dead End
+Room:
+A slanted cold room covered with mildew.
+Dead End
+Room:
+A yellow hot room covered with mildew.
+Door 1:
+A decrepit door marked with a B.
+Door 2:
+A bamboo door.
+Room:
+A green large room with a grass floor.
+Dead End
+Room:
+A green tiny room covered with mildew.
+Dead End
+Room:
+A slanted smelly room.
+Door 1:
+A massive door.
+Door 2:
+A bamboo door.
+Room:
+A circular dark room filled with rabbits.
+Dead End
+Room:
+A slanted large room filled with rabbits.
+Door 1:
+A brown door marked with an A.
+Door 2:
+A normal door.
+Room:
+A bright large room with a swimming pool.
+Door 1:
+A beautiful door.
+Door 2:
+A beautiful door marked with a B.
+Room:
+A purple cold room with a grass floor.
+Door 1:
+A purple door marked with a B.
+Door 2:
+A brown door marked with an A.
+Room:
+A blue tiny room decorated with party streamers.
+Door 1:
+A massive door with a picture of a happy face.
+Door 2:
+A beautiful door with a picture of a sad face.
+Room:
+A green tiny room decorated with party streamers.
+Door 1:
+A normal door with a picture of a sad face.
+Door 2:
+A brown door with a picture of a happy face.
+Room:
+A slanted cold room.
+Dead End
+Room:
+A green large room decorated with party streamers.
+Dead End
+Room:
+A  dark room.
+Door 1:
+A massive door with a picture of a happy face.
+Door 2:
+A brown door marked with an A.
+Room:
+A blue cold room with a swimming pool.
+Dead End
+Room:
+A yellow hot room with a swimming pool.
+Dead End
+Room:
+A  dark room with a grass floor.
+Dead End
+Room:
+A circular large room.
+Door 1:
+A massive door.
+Door 2:
+A normal door.
+Room:
+A circular crowded room filled with rabbits.
+Door 1:
+A massive door.
+Door 2:
+A brown door with a picture of a sad face.
+Room:
+A yellow large room filled with rabbits.
+Door 1:
+A massive door marked with an A.
+Door 2:
+A beautiful door marked with a B.
+Room:
+A purple crowded room decorated with party streamers.
+Dead End
+Room:
+A green hot room with a grass floor.
+Dead End
+Room:
+A blue crowded room with a swimming pool.
+Dead End
+Room:
+A bright cold room decorated with party streamers.
+Door 1:
+A beautiful door with a picture of a happy face.
+Door 2:
+A massive door with a picture of a happy face.
+Room:
+A yellow smelly room covered with mildew.
+Door 1:
+A brown door.
+Door 2:
+A decrepit door with a picture of a happy face.
+Room:
+A red cold room.
+Dead End
+Room:
+A yellow normal room.
+Dead End
+Room:
+A bright large room with a grass floor.
+Dead End
+Room:
+A  large room decorated with party streamers.
+Door 1:
+A purple door.
+Door 2:
+A beautiful door.
+Room:
+A yellow normal room decorated with party streamers.
+Door 1:
+A bamboo door.
+Door 2:
+A brown door.
+Room:
+A purple normal room.
+Door 1:
+A decrepit door with a picture of a sad face.
+Door 2:
+A bamboo door marked with an A.
+Room:
+A blue crowded room with a swimming pool.
+Door 1:
+A decrepit door.
+Door 2:
+A brown door marked with a B.
+Room:
+A  large room decorated with party streamers.
+Dead End
+Room:
+A circular hot room.
+Dead End
+Room:
+A red smelly room.
+Door 1:
+A beautiful door marked with a B.
+Door 2:
+A brown door with a picture of a sad face.
+Room:
+A bright large room with a swimming pool.
+Dead End
+Room:
+A  smelly room decorated with party streamers.
+Dead End
+Room:
+A bright cold room.
+Door 1:
+A normal door with a picture of a happy face.
+Door 2:
+A normal door marked with an A.
+Room:
+A bright normal room covered with mildew.
+Dead End
+Room:
+A bright dark room covered with mildew.
+Door 1:
+A decrepit door.
+Door 2:
+A bamboo door with a picture of a happy face.
+Room:
+A red hot room covered with mildew.
+Dead End
+Room:
+A yellow smelly room covered with mildew.
+Dead End
+Room:
+A purple tiny room.
+Door 1:
+A normal door.
+Door 2:
+A massive door marked with an A.
+Room:
+A blue hot room decorated with party streamers.
+Dead End
+Room:
+A slanted crowded room with a swimming pool.
+Dead End
+Room:
+A slanted large room with a grass floor.
+Door 1:
+A beautiful door marked with a B.
+Door 2:
+A brown door with a picture of a sad face.
+Room:
+A green dark room.
+Door 1:
+A purple door with a picture of a sad face.
+Door 2:
+A massive door.
+Room:
+A  tiny room with a grass floor.
+Door 1:
+A bamboo door marked with a B.
+Door 2:
+A purple door marked with a B.
+Room:
+A bright normal room covered with mildew.
+Door 1:
+A normal door.
+Door 2:
+A massive door with a picture of a happy face.
+Room:
+A bright hot room.
+Dead End
+Room:
+A purple normal room.
+Door 1:
+A beautiful door with a picture of a happy face.
+Door 2:
+A beautiful door with a picture of a happy face.
+Room:
+A purple smelly room with a swimming pool.
+Dead End
+Room:
+A yellow crowded room.
+Door 1:
+A brown door marked with a B.
+Door 2:
+A decrepit door with a picture of a happy face.
+Room:
+A blue crowded room.
+Door 1:
+A beautiful door marked with an A.
+Door 2:
+A purple door with a picture of a happy face.
+Room:
+A circular large room.
+Door 1:
+A purple door with a picture of a sad face.
+Door 2:
+A normal door marked with a B.
+Room:
+A  smelly room.
+Dead End
+Room:
+A green cold room.
+Dead End
+Room:
+A purple hot room.
+Door 1:
+A brown door with a picture of a sad face.
+Door 2:
+A purple door.
+Room:
+A yellow hot room filled with rabbits.
+Dead End
+Room:
+A slanted tiny room.
+Dead End
+Room:
+A  hot room.
+Door 1:
+A purple door with a picture of a sad face.
+Door 2:
+A beautiful door marked with an A.
+Room:
+A slanted hot room.
+Door 1:
+A decrepit door marked with an A.
+Door 2:
+A brown door.
+Room:
+A green normal room.
+Dead End
+Room:
+A slanted dark room filled with rabbits.
+Dead End
+Room:
+A red normal room with a grass floor.
+Door 1:
+A massive door.
+Door 2:
+A massive door with a picture of a sad face.
+Room:
+A  crowded room decorated with party streamers.
+Dead End
+Room:
+A  normal room with a grass floor.
+Dead End
+Room:
+A slanted crowded room with a grass floor.
+Door 1:
+A purple door.
+Door 2:
+A bamboo door.
+Room:
+A purple crowded room with a swimming pool.
+Dead End
+Room:
+A circular cold room covered with mildew.
+Door 1:
+A beautiful door marked with a B.
+Door 2:
+A decrepit door.
+Room:
+A  tiny room with a grass floor.
+Dead End
+Room:
+A  tiny room filled with rabbits.
+Door 1:
+A purple door.
+Door 2:
+A massive door marked with a B.
+Room:
+A yellow crowded room filled with rabbits.
+Door 1:
+A beautiful door with a picture of a sad face.
+Door 2:
+A normal door with a picture of a happy face.
+Room:
+A  dark room filled with rabbits.
+Door 1:
+A brown door marked with a B.
+Door 2:
+A purple door marked with an A.
+Room:
+A  cold room covered with mildew.
+Dead End
+Room:
+A green dark room.
+Dead End
+Room:
+A bright large room with a swimming pool.
+Door 1:
+A bamboo door.
+Door 2:
+A brown door.
+Room:
+A  tiny room with a grass floor.
+Dead End
+Room:
+A yellow dark room filled with rabbits.
+Dead End
+Room:
+A circular large room decorated with party streamers.
+Door 1:
+A bamboo door marked with an A.
+Door 2:
+A massive door.
+Room:
+A green hot room filled with rabbits.
+Door 1:
+A normal door.
+Door 2:
+A bamboo door with a picture of a sad face.
+Room:
+A circular large room with a grass floor.
+Dead End
+Room:
+A  normal room with a swimming pool.
+Dead End
+Room:
+A  normal room.
+Door 1:
+A beautiful door marked with an A.
+Door 2:
+A beautiful door.
+Room:
+A circular hot room.
+Dead End
+Room:
+A  large room.
+Dead End
+Room:
+A  cold room decorated with party streamers.
+Dead End
+Room:
+A slanted smelly room covered with mildew.
+Door 1:
+A brown door with a picture of a happy face.
+Door 2:
+A normal door with a picture of a sad face.
+Room:
+A purple crowded room covered with mildew.
+Door 1:
+A decrepit door with a picture of a happy face.
+Door 2:
+A normal door marked with a B.
+Room:
+A  dark room covered with mildew.
+Door 1:
+A normal door with a picture of a sad face.
+Door 2:
+A massive door.
+Room:
+A bright cold room filled with rabbits.
+Door 1:
+A purple door with a picture of a sad face.
+Door 2:
+A beautiful door.
+Room:
+A  normal room decorated with party streamers.
+Door 1:
+A brown door with a picture of a happy face.
+Door 2:
+A massive door.
+Room:
+A blue hot room decorated with party streamers.
+Door 1:
+A bamboo door with a picture of a happy face.
+Door 2:
+A beautiful door with a picture of a happy face.
+Room:
+A bright crowded room covered with mildew.
+Door 1:
+A purple door marked with a B.
+Door 2:
+A beautiful door.
+Room:
+A red dark room filled with rabbits.
+Dead End
+Room:
+A red hot room with a grass floor.
+Dead End
+Room:
+A green hot room filled with rabbits.
+Dead End
+Room:
+A  smelly room decorated with party streamers.
+Door 1:
+A bamboo door marked with an A.
+Door 2:
+A bamboo door.
+Room:
+A purple crowded room decorated with party streamers.
+Dead End
+Room:
+A blue normal room.
+Door 1:
+A decrepit door with a picture of a sad face.
+Door 2:
+A normal door with a picture of a happy face.
+Room:
+A circular dark room.
+Dead End
+Room:
+A  dark room with a swimming pool.
+Dead End
+Room:
+A slanted dark room with a grass floor.
+Door 1:
+A brown door with a picture of a happy face.
+Door 2:
+A normal door.
+Room:
+A green large room.
+Door 1:
+A massive door marked with an A.
+Door 2:
+A decrepit door with a picture of a happy face.
+Room:
+A  normal room with a swimming pool.
+Door 1:
+A purple door with a picture of a happy face.
+Door 2:
+A purple door.
+Room:
+A circular crowded room with a swimming pool.
+Dead End
+Room:
+A slanted hot room decorated with party streamers.
+Dead End
+Room:
+A bright normal room with a grass floor.
+Door 1:
+A brown door.
+Door 2:
+A massive door.
+Room:
+A green crowded room filled with rabbits.
+Dead End
+Room:
+A  cold room covered with mildew.
+Dead End
+Room:
+A  tiny room decorated with party streamers.
+Door 1:
+A bamboo door marked with an A.
+Door 2:
+A massive door with a picture of a sad face.
+Room:
+A green dark room.
+Door 1:
+A massive door.
+Door 2:
+A bamboo door.
+Room:
+A yellow hot room covered with mildew.
+Dead End
+Room:
+A yellow cold room filled with rabbits.
+Dead End
+Room:
+A bright normal room.
+Door 1:
+A purple door marked with an A.
+Door 2:
+A normal door with a picture of a happy face.
+Room:
+A purple normal room.
+Dead End
+Room:
+A red hot room filled with rabbits.
+Dead End
+Room:
+A yellow normal room decorated with party streamers.
+Door 1:
+A beautiful door marked with a B.
+Door 2:
+A bamboo door with a picture of a happy face.
+Room:
+A circular dark room.
+Dead End
+Room:
+A yellow normal room with a swimming pool.
+Door 1:
+A normal door marked with an A.
+Door 2:
+A normal door.
+Room:
+A bright cold room with a grass floor.
+Dead End
+Room:
+A purple tiny room with a grass floor.
+Door 1:
+A brown door.
+Door 2:
+A purple door with a picture of a sad face.
+Room:
+A yellow large room.
+Door 1:
+A bamboo door.
+Door 2:
+A beautiful door marked with a B.
+Room:
+A slanted dark room.
+Dead End
+Room:
+A  large room with a grass floor.
+Dead End
+Room:
+A bright cold room filled with rabbits.
+Dead End
+Room:
+A slanted crowded room.
+Door 1:
+A massive door.
+Door 2:
+A bamboo door marked with a B.
+Room:
+A  smelly room.
+Door 1:
+A purple door with a picture of a sad face.
+Door 2:
+A purple door.
+Room:
+A purple smelly room filled with rabbits.
+Door 1:
+A purple door marked with an A.
+Door 2:
+A brown door.
+Room:
+A bright crowded room with a swimming pool.
+Door 1:
+A bamboo door.
+Door 2:
+A bamboo door.
+Room:
+A red dark room covered with mildew.
+Dead End
+Room:
+A circular normal room.
+Door 1:
+A decrepit door with a picture of a happy face.
+Door 2:
+A bamboo door marked with a B.
+Room:
+A  dark room decorated with party streamers.
+Dead End
+Room:
+A bright cold room decorated with party streamers.
+Dead End
+Room:
+A blue cold room.
+Door 1:
+A brown door.
+Door 2:
+A normal door with a picture of a happy face.
+Room:
+A yellow hot room with a swimming pool.
+Door 1:
+A decrepit door.
+Door 2:
+A brown door.
+Room:
+A blue cold room.
+Dead End
+Room:
+A  normal room covered with mildew.
+Dead End
+Room:
+A yellow tiny room.
+Door 1:
+A decrepit door.
+Door 2:
+A purple door with a picture of a sad face.
+Room:
+A circular normal room with a swimming pool.
+Dead End
+Room:
+A yellow tiny room.
+Dead End
+Room:
+A circular tiny room.
+Door 1:
+A brown door with a picture of a happy face.
+Door 2:
+A massive door with a picture of a happy face.
+Room:
+A circular smelly room covered with mildew.
+Door 1:
+A purple door marked with an A.
+Door 2:
+A beautiful door.
+Room:
+A  cold room covered with mildew.
+Dead End
+Room:
+A blue cold room with a swimming pool.
+Door 1:
+A purple door marked with a B.
+Door 2:
+A brown door.
+Room:
+A circular tiny room with a swimming pool.
+Dead End
+Room:
+A yellow hot room.
+Dead End
+Room:
+A  smelly room with a grass floor.
+Door 1:
+A beautiful door marked with an A.
+Door 2:
+A decrepit door with a picture of a sad face.
+Room:
+A circular dark room covered with mildew.
+Door 1:
+A beautiful door marked with an A.
+Door 2:
+A brown door.
+Room:
+A blue smelly room filled with rabbits.
+Dead End
+Room:
+A blue dark room filled with rabbits.
+Dead End
+Room:
+A  crowded room with a grass floor.
+Door 1:
+A massive door marked with an A.
+Door 2:
+A beautiful door marked with an A.
+Room:
+A bright cold room filled with rabbits.
+Dead End
+Room:
+A  tiny room covered with mildew.
+Dead End
+Room:
+A bright smelly room covered with mildew.
+Door 1:
+A decrepit door.
+Door 2:
+A massive door with a picture of a sad face.
+Room:
+A yellow dark room.
+Door 1:
+A decrepit door marked with a B.
+Door 2:
+A decrepit door with a picture of a sad face.
+Room:
+A red crowded room covered with mildew.
+Door 1:
+A bamboo door marked with an A.
+Door 2:
+A massive door.
+Room:
+A red normal room.
+Dead End
+Room:
+A bright normal room with a grass floor.
+Door 1:
+A brown door with a picture of a sad face.
+Door 2:
+A normal door with a picture of a happy face.
+Room:
+A slanted normal room with a grass floor.
+Dead End
+Room:
+A purple crowded room covered with mildew.
+Dead End
+Room:
+A blue hot room.
+Door 1:
+A beautiful door with a picture of a happy face.
+Door 2:
+A decrepit door.
+Room:
+A bright tiny room with a grass floor.
+Door 1:
+A decrepit door.
+Door 2:
+A bamboo door.
+Room:
+A  crowded room with a swimming pool.
+Dead End
+Room:
+A purple crowded room filled with rabbits.
+Dead End
+Room:
+A blue tiny room.
+Door 1:
+A bamboo door marked with a B.
+Door 2:
+A decrepit door with a picture of a sad face.
+Room:
+A slanted large room with a grass floor.
+Dead End
+Room:
+A blue hot room covered with mildew.
+Dead End
+Room:
+A  crowded room with a grass floor.
+Door 1:
+A beautiful door.
+Door 2:
+A purple door.
+Room:
+A red normal room covered with mildew.
+Door 1:
+A bamboo door.
+Door 2:
+A normal door with a picture of a sad face.
+Room:
+A red normal room covered with mildew.
+Door 1:
+A brown door.
+Door 2:
+A brown door marked with a B.
+Room:
+A red dark room.
+Dead End
+Room:
+A purple dark room.
+Dead End
+Room:
+A  cold room decorated with party streamers.
+Dead End
+Room:
+A purple hot room covered with mildew.
+Door 1:
+A purple door.
+Door 2:
+A decrepit door marked with an A.
+Room:
+A yellow large room with a grass floor.
+Door 1:
+A normal door with a picture of a sad face.
+Door 2:
+A bamboo door.
+Room:
+A circular dark room with a grass floor.
+Dead End
+Room:
+A yellow cold room covered with mildew.
+Dead End
+Room:
+A circular tiny room filled with rabbits.
+Door 1:
+A decrepit door with a picture of a sad face.
+Door 2:
+A decrepit door with a picture of a happy face.
+Room:
+A slanted hot room filled with rabbits.
+Dead End
+Room:
+A bright hot room decorated with party streamers.
+Dead End
+Room:
+A slanted normal room.
+Door 1:
+A brown door marked with a B.
+Door 2:
+A bamboo door.
+Room:
+A circular dark room with a swimming pool.
+Dead End
+Room:
+A red crowded room with a grass floor.
+Door 1:
+A bamboo door.
+Door 2:
+A normal door marked with an A.
+Room:
+A red dark room.
+Dead End
+Room:
+A green smelly room covered with mildew.
+Dead End

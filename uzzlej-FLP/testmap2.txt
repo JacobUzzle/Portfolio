@@ -1,0 +1,30 @@
+Room:
+A green large room with a grass floor.
+Door 1:
+A normal door.
+Door 2:
+A massive door marked with a B.
+Room:
+A green large room.
+Door 1:
+A massive door marked with an A.
+Door 2:
+A massive door.
+Room:
+A slanted large room decorated with party streamers.
+Door 1:
+A normal door with a picture of a sad face.
+Door 2:
+A purple door.
+Room:
+A  tiny room with a swimming pool.
+Dead End
+Room:
+A green crowded room with a swimming pool.
+Dead End
+Room:
+A purple large room decorated with party streamers.
+Exit
+Room:
+A  hot room with a swimming pool.
+Dead End

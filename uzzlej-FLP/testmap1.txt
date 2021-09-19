@@ -1,0 +1,21 @@
+Room:
+This is a test room.
+Door 1:
+This is door 1.
+Door 2:
+This is door 2.
+Room:
+This is another test room.
+Dead End
+Room:
+This room is full of guava
+Door 1:
+This is a purple door.
+Door 2:
+This is a green door.
+Room:
+This is a dead end.
+Dead End
+Room:
+This is also a dead end
+Dead End

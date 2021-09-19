@@ -1,0 +1,114 @@
+Position:
+00
+Dungeon:
+Room:
+A green hot room with a swimming pool.
+Door 1:
+A decrepit door with a picture of a sad face.
+Door 2:
+A bamboo door with a picture of a sad face.
+Room:
+A smelly room.
+Door 1:
+A brown door.
+Door 2:
+A beautiful door marked with an A.
+Room:
+A circular hot room covered with mildew.
+Door 1:
+A normal door with a picture of a happy face.
+Door 2:
+A purple door with a picture of a happy face.
+Room:
+A cold room filled with rabbits.
+Dead End
+Room:
+An orange dark room with a grass floor.
+Dead End
+Room:
+A bright cold room with a swimming pool.
+Dead End
+Room:
+A slanted hot room.
+Door 1:
+A decrepit door marked with a B.
+Door 2:
+A purple door marked with a B.
+Room:
+A bright cold room with a grass floor.
+Door 1:
+A massive door.
+Door 2:
+A bamboo door with a picture of a sad face.
+Room:
+A circular large room covered with mildew.
+Dead End
+Room:
+A circular crowded room.
+Dead End
+Room:
+A purple cold room with a swimming pool.
+Door 1:
+A decrepit door.
+Door 2:
+A massive door with a picture of a happy face.
+Room:
+A blue tiny room with a swimming pool.
+Door 1:
+A beautiful door with a picture of a sad face.
+Door 2:
+A beautiful door with a picture of a sad face.
+Room:
+A green dark room with a grass floor.
+Door 1:
+A normal door.
+Door 2:
+A decrepit door.
+Room:
+A yellow hot room with a grass floor.
+Dead End
+Room:
+A slanted dark room.
+Dead End
+Room:
+A circular crowded room.
+Door 1:
+A brown door marked with an A.
+Door 2:
+A bamboo door.
+Room:
+A purple smelly room.
+Dead End
+Room:
+An orange normal room filled with rabbits.
+Dead End
+Room:
+An orange cold room.
+Door 1:
+A decrepit door with a picture of a happy face.
+Door 2:
+A decrepit door marked with a B.
+Room:
+An orange dark room with a grass floor.
+Door 1:
+A purple door marked with an A.
+Door 2:
+A brown door with a picture of a happy face.
+Room:
+A circular smelly room.
+Dead End
+Room:
+A purple normal room with a grass floor.
+Dead End
+Room:
+A bright dark room.
+Door 1:
+A bamboo door.
+Door 2:
+A normal door marked with an A.
+Room:
+A normal room with a swimming pool.
+Dead End
+Room:
+A dark room.
+Dead End

@@ -1,0 +1,15 @@
+Position:
+
+Dungeon:
+Room:
+A normal room decorated with party streamers.
+Door 1:
+A purple door marked with a B.
+Door 2:
+A decrepit door.
+Room:
+A purple cold room filled with rabbits.
+Dead End
+Room:
+A smelly room decorated with party streamers.
+Exit
